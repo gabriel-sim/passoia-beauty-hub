@@ -25,7 +25,7 @@ const ProductSection = () => {
   ];
 
   const colors = [
-    { img: bolacor1Img, modelImg: mulher1Img, name: "Lavanda Suave" },
+    { img: bolacor1Img, modelImg: fotoMulherImg, name: "Lavanda Suave" },
     { img: bolacor2Img, modelImg: mulher2Img, name: "Vermelho Intenso" },
     { img: bolacor3Img, modelImg: mulher3Img, name: "Burgundy Elegante" },
     { img: bolacor4Img, modelImg: mulher4Img, name: "Nude Natural" },
